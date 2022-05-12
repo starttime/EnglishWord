@@ -1,3 +1,3 @@
 # EnglishWord
 web study english word
-初始化
+一款用于vue2的项目
